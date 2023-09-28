@@ -3,7 +3,6 @@
 
 ### 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor)](https://www.linkedin.com/in/fl%C3%A1vio-eduardo/)&nbsp;
-[![Static Badge](https://img.shields.io/badge/Github-grey?style=for-the-badge&logo=github)](https://github.com/Thormenthus)&nbsp;
 [![Static Badge](https://img.shields.io/badge/Perfil%20na%20DIO-purple?style=flat&logo=hey)](https://www.dio.me/users/flavioeduardo318)&nbsp;
 [![Static Badge](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail)
 ](mailto:flavioeduardo318@gmail.com)&nbsp;
