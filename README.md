@@ -1,8 +1,5 @@
 ![minha capa](https://media.licdn.com/dms/image/C4E16AQFHkNnebFFi-g/profile-displaybackgroundimage-shrink_200_800/0/1633216384859?e=2147483647&v=beta&t=TfTt_dLGxYY2dJmzCH024usi5JrHpIjF2EkzWcHT-9Q)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=100&color=781BF7&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=175&lines=Hi+guys!+My+name's+Fl%C3%A1vio+Eduardo+;I'm+31+years+old;and+I'm+a+computer+science+student+at+Est%C3%A1cio+de+S%C3%A1.;currently+in+a+career+transition%2C;facing+the+challenge+of+an+internship;with+Java+on+the+backend)](https://git.io/typing-svg)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thormenthus&theme=2077)&nbsp;
 
 ### 🔗 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor)](https://www.linkedin.com/in/fl%C3%A1vio-eduardo/)&nbsp;
