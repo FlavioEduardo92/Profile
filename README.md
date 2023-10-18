@@ -31,16 +31,13 @@ My journey is based on continuous learning, always seeking to improve my skills 
 
 ### 🎨 &nbsp;Front-end
 
-![Static Badge](https://img.shields.io/badge/Html-lightgrey?style=for-the-badge&logo=html5)&nbsp;
-![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)&nbsp;
-![Static Badge](https://img.shields.io/badge/Javascript-yellow?style=for-the-badge&logo=javascript)&nbsp;
-![Static Badge](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)&nbsp;
-![Static Badge](https://img.shields.io/badge/TypeScript-silver?style=for-the-badge&logo=typescript)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular&theme=light)](https://skillicons.dev)
 
 ### 👩‍💻 &nbsp;Back-End
 ###### 📚 Studying at the moment:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![Spring Framework](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev)
+
 
 ---
 
