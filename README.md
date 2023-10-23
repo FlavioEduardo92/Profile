@@ -23,7 +23,7 @@ Software Developer • Graduating in Computer Science
 
 ---
 
-### 🎯 developer in training, focused on front-end development and exploring new challenges in the back-end
+### 🎯 Developer in training, focused on front-end development and exploring new challenges in the back-end
 
 My journey is based on continuous learning, always seeking to improve my skills and knowledge. With dedication and vision for the future, I look for opportunities to create innovative solutions and be part of the digital transformation.
 
