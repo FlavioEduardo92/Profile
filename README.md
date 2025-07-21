@@ -1,10 +1,10 @@
 <h1 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=000000&center=true&repeat=false&random=false&width=435&lines=Hi+guys!++I'm+Fl%C3%A1vio+%F0%9F%91%8B" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=000000&center=true&repeat=false&random=false&width=435&lines=Hi+everyone!++I'm+Fl%C3%A1vio+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </h1>
 
 
 <div align="center">
-<img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
+<img height="320em" src="https://i.pinimg.com/originals/8c/b4/88/8cb48892e3fa929efdab85b19eb31c90.gif"/>
   
    <!-- <img height="350em" src="./.github/assets/cover_.png"/> -->
   <!-- <img height="380em" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"/> -->
