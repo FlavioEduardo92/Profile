@@ -53,14 +53,14 @@ My journey is based on continuous learning, always seeking to improve my skills 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FlavioEduardo92&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=FlavioEduardo92&show_icons=true&theme=dark&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=FlavioEduardo92&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=FlavioEduardo92&show_icons=true&count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=FlavioEduardo92&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FlavioEduardo92&show_icons=true&count_private=true" />
 </picture>
 
 </div>
