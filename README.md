@@ -18,7 +18,7 @@ Software Developer • Graduating in Computer Science
 <div align="center">
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor)](https://www.linkedin.com/in/fl%C3%A1vio-eduardo/)&nbsp;
-[![Static Badge](https://img.shields.io/badge/Gmail-silver?style=for-the-badge&logo=gmail)](mailto:flavioeduardo318@gmail.com)&nbsp;
+
 </div>
 
 ---
