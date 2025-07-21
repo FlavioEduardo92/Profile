@@ -23,20 +23,21 @@ Software Developer • Graduating in Computer Science
 
 ---
 
-### 🎯 Developer in training, focused on front-end development and exploring new challenges in the back-end
+### 🎯 Developer in training, focused on back-end development and exploring new challenges in the data analytics
 
 My journey is based on continuous learning, always seeking to improve my skills and knowledge. With dedication and vision for the future, I look for opportunities to create innovative solutions and be part of the digital transformation.
 
 ## 🛠 &nbsp;Tech Stack
 
-### 🎨 &nbsp;Front-end
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=angular&theme=light)](https://skillicons.dev)
-
 ### 👩‍💻 &nbsp;Back-End
 ###### 📚 Studying at the moment:
 [![My Skills](https://skillicons.dev/icons?i=java,spring&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure&theme=light)](https://skillicons.dev)
+
+### 🎨 &nbsp;Front-end
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,github)](https://skillicons.dev)
 
 
 ---
@@ -50,17 +51,17 @@ My journey is based on continuous learning, always seeking to improve my skills 
 
 <h3 align="left">GitHub Stats</h3>
 
-<div align="left">
-	<a href="https://github.com/Thormenthus/github-readme-stats" target = "_blank">
-		<img height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Thormenthus&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=020114&title_color=7520FF&text_color=FFF&border_radius=3&border_color=181832&icon_color=7520FF&theme=jolly">
-	</a>
-	<img alt="Top Langs" height="130em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Thormenthus&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=7520FF&hide=html,css&bg_color=020114&text_color=8B8B8B&border_radius=3&border_color=181832">
-	<!-- <a href="https://git.io/streak-stats">
-  		<img height="130em" src="https://streak-stats.demolab.com?user=felipeaguiarcode&theme=buefy-dark&border_radius=3&date_format=M%20j%5B%2C%20Y%5D&background=020114&border=181832&ring=7520FF&stroke=181832&currStreakLabel=ED00F2&sideLabels=FCFCFC&currStreakNum=ED00F2&fire=ED00F2&sideNums=7520FF&dates=8B8B8B">
-	</a> -->
-</div>
-
-<div align="center">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=FlavioEduardo92&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=FlavioEduardo92&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=FlavioEduardo92&show_icons=true" />
+</picture>
 
 </div>
 
