@@ -43,7 +43,7 @@ My journey is based on continuous learning, always seeking to improve my skills 
 ---
 
 ### 📂 &nbsp;Main repositories
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Thormenthus&repo=angular-twitter-clone&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Thormenthus/angular-twitter-clone)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FlavioEduardo92&repo=ExerciciosJava&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/FlavioEduardo92/ExerciciosJava)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Thormenthus&repo=dio-trilha-java-basico&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Thormenthus/dio-trilha-java-basico)
 
 
